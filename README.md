@@ -1,2 +1,2 @@
 # ui-camera
-just a normal app
+#refer to the code of homePage.tsx and Login.tsx
